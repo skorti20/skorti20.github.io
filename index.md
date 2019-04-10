@@ -1,11 +1,11 @@
-## My Portfolio
+## Portfolio
 
 ---
 
 ### Category Name 1 
 
 [Project 1 Dating Site](/sample_page)
-<img src="https://i.postimg.cc/cH0Y3QZL/KORTI-S-FOODIE-2.png"/>
+<img src="https://i.postimg.cc/KcrKD1MY/shanique-wright-1232842-unsplash.jpg"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
@@ -19,7 +19,7 @@
 
 ### Category Name 2
 
-- [Project 1 dating site](https://codepen.io/skorti20/pen/MReKxR/)
+- [Project 1 Dating site](https://codepen.io/skorti20/pen/MReKxR/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
