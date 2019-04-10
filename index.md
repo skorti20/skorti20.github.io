@@ -4,11 +4,11 @@
 
 ### Category Name 1 
 
-[Project 1 Dating Site](/sample_page)
+[Project 1 Dating Site]
 <img src="https://i.postimg.cc/KcrKD1MY/shanique-wright-1232842-unsplash.jpg"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Project 2 Basic coffee shop]
 <img src="https://i.postimg.cc/jS0gn4Zw/mae-mu-1378585-unsplash.jpg"/>
 
 ---
