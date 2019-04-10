@@ -9,7 +9,7 @@
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="ttps://i.postimg.cc/jS0gn4Zw/mae-mu-1378585-unsplash.jpg"/>
 
 ---
 [Project 3 Title](http://example.com/)
