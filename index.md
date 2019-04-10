@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Project 1 Dating Site](/sample_page)
-<img src="KORTI'S FOODIE (3).png"/>
+<img src="https://i.postimg.cc/cH0Y3QZL/KORTI-S-FOODIE-2.png"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
